@@ -114,7 +114,7 @@ public class DiamondAction {
 		return response;
 	}
 
-	// geklaut ....
+	
 	private String convertStreamToStr(InputStream is) throws IOException {
 
 		if (is != null) {
