@@ -1,4 +1,15 @@
 # ADFGenerator
+Features:
+
+Formelgenerator für 
+  -Laplace Generator
+  -KDNF Generator
+  -STF-Generator
+  
+Minimierung
+  von aussagenlogischer Formeln
+
+ADF Generierung und Evaluierung
 
 entwickelt von Stefan Wetzig
 im Rahmen der Bachelorarbeit 
