@@ -7,7 +7,7 @@ Formelgenerator für
   -STF-Generator
   
 Minimierung
-  von aussagenlogischer Formeln
+  von aussagenlogischer Formeln (nach Quine MCCluskey )
 
 ADF Generierung und Evaluierung
 
